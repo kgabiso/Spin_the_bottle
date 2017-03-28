@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/bottle1"
+    android:title="Default bottle"
+    app:showAsAction="never"/>
+    <item android:id="@+id/bottle2"
+        android:title="Brown bottle"
+        app:showAsAction="never"/>
+    <item android:id="@+id/bottle3"
+        android:title="Cartoon bottle"
+        app:showAsAction="never"/>
+    <item android:id="@+id/bottle4"
+        android:title="Glass bottle"
+        app:showAsAction="never"/>
+</menu>

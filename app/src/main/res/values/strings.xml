@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SPIN THE BOTTLE</string>
+    <string name="tv_spin">SPIN THE BOTTLE !</string>
+    <string name="tv_Reset">RESET !</string>
+</resources>
